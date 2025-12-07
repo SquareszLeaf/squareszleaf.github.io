@@ -4,8 +4,8 @@ const PRECACHE_URLS = [
   "./index.html",
   "./sipeed.ico",
   "./manifest.webmanifest",
-  "./assets/index-COmTSWHa.css",
-  "./assets/index-D8GDQI94.js",
+  "./assets/index-BCxmGuRY.css",
+  "./assets/index-BqkmQfNV.js",
   "./assets/icon-192.png",
   "./assets/icon-512.png"
 ];
